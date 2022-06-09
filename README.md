@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Michael Rondeau
-- 🌱 I’m currently learning ...
+- 🌱 I’m a student at Collège Multihexa
