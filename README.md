@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Michael Rondeau
-- 🌱 I’m a student at Collège Multihexa
+- 🌱 I’m a software developer intern at Genetec
